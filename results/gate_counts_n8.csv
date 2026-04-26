@@ -1,0 +1,5 @@
+stage,stride,pre_cx,post_cx,pre_rz,post_rz,pre_h,post_h,cx_overhead_pct,depth
+1,1,4,6,2,2,2,2,50,8
+2,2,4,6,2,2,2,2,50,10
+3,4,6,8,3,3,3,3,33,12
+total,all,14,20,7,7,7,7,43,30
