@@ -3,7 +3,7 @@
 > Companion code for **"Architectural Area-Time Trade-offs for Fault-Tolerant NTT: A Congestion-Aware Resource Analysis for ML-KEM"**  
 > Ishan Teredesai, Ayush Raj Sahay, Sanskar Chavan, Tushar Rahangadle  
 > Yeshwantrao Chavan College of Engineering, Nagpur, India  
-> IEEE QCE 2025
+> IEEE QCE 2026
 
 ---
 
@@ -121,19 +121,11 @@ If you use this code in your work, please cite:
                Chavan, Sanskar and Rahangadle, Tushar},
   booktitle = {Proceedings of the IEEE International Conference on
                Quantum Computing and Engineering (QCE)},
-  year      = {2025},
+  year      = {2026},
   note      = {Yeshwantrao Chavan College of Engineering, Nagpur, India}
 }
 ```
 
 ---
 
-## Contact
 
-For questions regarding the code or paper, reach out at `{ishan, sanskar, tushar, ayush}@aqcnr.co.in`
-
----
-
-## License
-
-MIT License. See `LICENSE` for details.
